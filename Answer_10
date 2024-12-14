@@ -1,0 +1,7 @@
+What will be the output of the following code?
+x = 10
+y = 5.5
+z = "10"
+print(type(x), type(y), type(z))
+
+Answer: <class 'int'> <class 'float'> <class 'str'>
